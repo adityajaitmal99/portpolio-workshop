@@ -422,5 +422,11 @@ Did you save the file? Do a hard refresh in the browser (`Ctrl + Shift + R`).
 - **Page title** → `index.html`
 - **Custom CSS** → `src/index.css`
 
-Everything else is explained in detail above. Happy coding! 🚀#   p o r t p o l i o - w o r k s h o p  
+Everything else is explained in detail above. Happy coding! 🚀#   p o r t p o l i o - w o r k s h o p 
  
+ 
+
+
+Exam url :
+
+https://exam.softgridinfo.in/student/login
